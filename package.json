@@ -1,0 +1,22 @@
+{
+  "name": "nodejsbestpractice",
+  "version": "1.0.0",
+  "description": "my summarize about best practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackyZhangFuDan/NodeJSBestPractice.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Jacky Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackyZhangFuDan/NodeJSBestPractice/issues"
+  },
+  "homepage": "https://github.com/JackyZhangFuDan/NodeJSBestPractice#readme"
+}
